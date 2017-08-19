@@ -21,7 +21,7 @@
 		
 	<table>
 	    <tr>
-	    <td class='label'>国家</td><td class='label'>城市</td><td class='label'>联系方式</td>
+	    <td class='label'>国家</td><td class='label'>城市</td><td class='label'>联系方式wendy</td>
 	    </tr>
 		<%
 			DataService m = new DataService();
